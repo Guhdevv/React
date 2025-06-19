@@ -2,7 +2,7 @@ ReactDOM.render(
   React.createElement(
    'h1',
    null,
-   'Hello Word' 
+   'Hello World' 
   ),
   document.getElementById('conteudo')
 );
