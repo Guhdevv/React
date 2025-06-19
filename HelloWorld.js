@@ -8,7 +8,7 @@ ReactDOM.render(
    'h2',
    null,
    'Aprendendo React' 
- 
+  )
   ),
   document.getElementById('conteudo')
 );
