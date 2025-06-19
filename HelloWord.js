@@ -5,4 +5,4 @@ ReactDOM.render(
    'Hello Word' 
   ),
   document.getElementById('conteudo')
-)
+);
